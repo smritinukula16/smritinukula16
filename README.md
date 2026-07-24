@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Smriti 👋
 
-<!--
-**smritinukula16/smritinukula16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Developer • Full Stack Developer • Founder @ Infini
 
-Here are some ideas to get you started:
+I build digital products that solve real-world problems—from e-commerce platforms for SMEs to immersive AR/VR experiences and games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently
+
+- 🎮 Building games with Unity
+- 🥽 Exploring AR/VR & XR
+- 🌐 Developing full-stack web applications
+- 🤖 Learning AI integrations
+- 💡 Building Infini
+
+## 🛠 Tech Stack
+
+### Languages
+JavaScript • TypeScript • C# • Python • HTML • CSS
+
+### Frontend
+React • Next.js • Tailwind CSS
+
+### Backend
+Node.js • Express
+
+### Database
+MongoDB • Firebase
+
+### Game Development
+Unity • AR Foundation • XR Interaction Toolkit
+
+### Tools
+Git • GitHub • VS Code • Cursor • Figma
+
+## 📌 Featured Projects
+
+- 🎮 Unity Games
+- 🥽 AR/VR Projects
+- 🌐 Portfolio Website
+- 🛒 SME E-commerce Platforms
+
+## 📫 Connect
+
+LinkedIn:
+www.linkedin.com/in/smriti-n-04739a300
+
+Portfolio:
+Coming Soon
