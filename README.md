@@ -45,4 +45,4 @@ LinkedIn:
 www.linkedin.com/in/smriti-n-04739a300
 
 Portfolio:
-Coming Soon
+https://smriti-portfolio-iota.vercel.app/
