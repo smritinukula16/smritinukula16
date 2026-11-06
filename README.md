@@ -44,7 +44,7 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 |:-:|:--|:--|
 | 🌾 | **Mossvale** — a cozy low-poly farming game, Unity 6 URP, isometric, storybook vibes | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
 | 🏜️ | **Dune Drift** — a desert drifting game, redrawing the art in pixel style myself, headed to Steam (free) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
-| 🏗️ | **CONSTRUCT-XR** — multiplayer VR construction collaboration (OpenXR · XRI · Netcode) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
+| 🏗️ | **CONSTRUCT-XR** — multiplayer VR construction collaboration (Meta Quest · XRI · Netcode) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
 | ⌨️ | **Digital Typewriter** — an interactive vintage typewriter for the web | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
 | 🎨 | Levelling up in **Blender** and **pixel art** | ![](https://img.shields.io/badge/GRINDING-5C0A1E?style=flat-square) |
 
@@ -125,11 +125,10 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
   <img src="https://img.shields.io/badge/C%23-5C0A1E?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-C1121F?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maya-0D0D0D?style=for-the-badge&logo=autodesk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenXR-5C0A1E?style=for-the-badge&logo=khronosgroup&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AR_Foundation-C1121F?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XR_Toolkit-0D0D0D?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vuforia-5C0A1E?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Meta_Quest-C1121F?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AR_Foundation-5C0A1E?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XR_Toolkit-C1121F?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vuforia-0D0D0D?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Meta_Quest-5C0A1E?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
 **🛡️ Web & Code**
@@ -153,7 +152,7 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
   <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-5C0A1E?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-C1121F?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-0D0D0D?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=claude&logoColor=white"/>
 </p>
 
 <br/>
