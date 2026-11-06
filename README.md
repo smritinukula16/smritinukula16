@@ -53,29 +53,63 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 <!-- ═══════════════════════════  LEVEL SELECT  ═══════════════════════════ -->
 ## <img src="https://img.shields.io/badge/03-C1121F?style=flat-square" height="22"/> &nbsp;LEVEL SELECT
 
+### <img src="https://img.shields.io/badge/LEVEL_1-0D0D0D?style=for-the-badge" height="24"/> &nbsp;TUTORIAL ZONE &nbsp;<sub>★☆☆</sub>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/smritinukula16/see-vr">SEE-VR</a></h3>
-      <sub><code>VR</code> · <code>Unity XR</code> · <code>C#</code></sub>
-      <p>A VR escape room — solve puzzles, find hidden objects, unlock the exit before you're stuck for good.</p>
+    <td width="33%" valign="top">
+      <h3>💻 <a href="https://github.com/smritinukula16/laptop-information">LAPTOP INFO AR</a></h3>
+      <sub><code>AR</code> · <code>Unity</code> · <code>Vuforia</code></sub>
+      <p>Marker-based AR that shows a laptop's specs and product details when you scan it.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <h3>🌐 <a href="https://smriti-portfolio-iota.vercel.app/">PORTFOLIO</a></h3>
+      <sub><code>Web</code> · <code>React</code> · <code>Vercel</code></sub>
+      <p>Everything in one place — games, XR, web and client work.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔐 <a href="https://github.com/smritinukula16/see-vr">RIDDLE ESCAPE</a></h3>
+      <sub><code>VR</code> · <code>Unity XR</code> · <code>C#</code></sub>
+      <p>A VR escape room — solve riddles, find hidden crystals, unlock the exit before you're stuck for good.</p>
+    </td>
+  </tr>
+</table>
+
+### <img src="https://img.shields.io/badge/LEVEL_2-5C0A1E?style=for-the-badge" height="24"/> &nbsp;THE WORLD OPENS UP &nbsp;<sub>★★☆</sub>
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏜️ DUNE DRIFT</h3>
+      <sub><code>Game</code> · <code>Unity</code> · <code>Pixel Art</code></sub>
+      <p>A desert drifting game with hand-redrawn pixel art, headed to Steam for free.</p>
+      <img src="https://img.shields.io/badge/COMING_TO_STEAM-5C0A1E?style=flat-square&logo=steam&logoColor=white"/>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌾 MOSSVALE</h3>
+      <sub><code>Game</code> · <code>Unity 6 URP</code> · <code>Low-poly</code></sub>
+      <p>A cozy isometric farming game with storybook vibes — plant, grow and wander.</p>
+      <img src="https://img.shields.io/badge/IN_DEVELOPMENT-5C0A1E?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
       <h3>🍜 <a href="https://github.com/smritinukula16/food-menu-information-ar">AR FOOD MENU</a></h3>
       <sub><code>AR</code> · <code>Unity 6</code> · <code>Vuforia</code></sub>
       <p>Scan a printed menu card and every dish pops up in 3D, with details and ordering.</p>
     </td>
   </tr>
+</table>
+
+### <img src="https://img.shields.io/badge/LEVEL_3-C1121F?style=for-the-badge" height="24"/> &nbsp;BOSS LEVEL &nbsp;<sub>★★★</sub>
+
+<table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/smritinukula16/laptop-information">LAPTOP INFO AR</a></h3>
-      <sub><code>AR</code> · <code>Unity</code> · <code>Vuforia</code></sub>
-      <p>Marker-based AR that shows a laptop's specs and product details when you scan it.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://smriti-portfolio-iota.vercel.app/">PORTFOLIO</a></h3>
-      <sub><code>Web</code> · <code>React</code> · <code>Vercel</code></sub>
-      <p>Everything in one place — games, XR, web and client work.</p>
+    <td width="100%" valign="top">
+      <h3>🏗️ CONSTRUCT-XR</h3>
+      <sub><code>VR</code> · <code>Meta Quest 3</code> · <code>XR Interaction Toolkit</code> · <code>Netcode for GameObjects</code> · <code>C#</code></sub>
+      <p>A multiplayer VR construction collaboration platform. Architects, engineers, site teams and clients meet inside a
+      shared 3D building to inspect components, measure, pin issues, chat, and propose changes through a full
+      review &amp; approval workflow — with role-based permissions and a live project dashboard.</p>
+      <img src="https://img.shields.io/badge/IN_DEVELOPMENT-C1121F?style=flat-square"/>
     </td>
   </tr>
 </table>
