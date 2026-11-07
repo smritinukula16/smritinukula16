@@ -40,6 +40,8 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 <!-- ═══════════════════════════  QUEST LOG  ═══════════════════════════ -->
 ## <img src="https://img.shields.io/badge/02-C1121F?style=flat-square" height="22"/> &nbsp;QUEST LOG
 
+**⚔️ Active quests**
+
 | | Quest | Status |
 |:-:|:--|:--|
 | 🌾 | **Mossvale** — a cozy low-poly farming game, Unity 6 URP, isometric, storybook vibes | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
@@ -48,76 +50,19 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 | ⌨️ | **Digital Typewriter** — an interactive vintage typewriter for the web | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
 | 🎨 | Levelling up in **Blender** and **pixel art** | ![](https://img.shields.io/badge/GRINDING-5C0A1E?style=flat-square) |
 
-<br/>
+**🏆 Cleared quests**
 
-<!-- ═══════════════════════════  LEVEL SELECT  ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/03-C1121F?style=flat-square" height="22"/> &nbsp;LEVEL SELECT
-
-### <img src="https://img.shields.io/badge/LEVEL_1-0D0D0D?style=for-the-badge" height="24"/> &nbsp;TUTORIAL ZONE &nbsp;<sub>★☆☆</sub>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💻 <a href="https://github.com/smritinukula16/laptop-information">LAPTOP INFO AR</a></h3>
-      <sub><code>AR</code> · <code>Unity</code> · <code>Vuforia</code></sub>
-      <p>Marker-based AR that shows a laptop's specs and product details when you scan it.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 <a href="https://smriti-portfolio-iota.vercel.app/">PORTFOLIO</a></h3>
-      <sub><code>Web</code> · <code>React</code> · <code>Vercel</code></sub>
-      <p>Everything in one place — games, XR, web and client work.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔐 <a href="https://github.com/smritinukula16/see-vr">RIDDLE ESCAPE</a></h3>
-      <sub><code>VR</code> · <code>Unity XR</code> · <code>C#</code></sub>
-      <p>A VR escape room — solve riddles, find hidden crystals, unlock the exit before you're stuck for good.</p>
-    </td>
-  </tr>
-</table>
-
-### <img src="https://img.shields.io/badge/LEVEL_2-5C0A1E?style=for-the-badge" height="24"/> &nbsp;THE WORLD OPENS UP &nbsp;<sub>★★☆</sub>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🏜️ DUNE DRIFT</h3>
-      <sub><code>Game</code> · <code>Unity</code> · <code>Pixel Art</code></sub>
-      <p>A desert drifting game with hand-redrawn pixel art, headed to Steam for free.</p>
-      <img src="https://img.shields.io/badge/COMING_TO_STEAM-5C0A1E?style=flat-square&logo=steam&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌾 MOSSVALE</h3>
-      <sub><code>Game</code> · <code>Unity 6 URP</code> · <code>Low-poly</code></sub>
-      <p>A cozy isometric farming game with storybook vibes — plant, grow and wander.</p>
-      <img src="https://img.shields.io/badge/IN_DEVELOPMENT-5C0A1E?style=flat-square"/>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🍜 <a href="https://github.com/smritinukula16/food-menu-information-ar">AR FOOD MENU</a></h3>
-      <sub><code>AR</code> · <code>Unity 6</code> · <code>Vuforia</code></sub>
-      <p>Scan a printed menu card and every dish pops up in 3D, with details and ordering.</p>
-    </td>
-  </tr>
-</table>
-
-### <img src="https://img.shields.io/badge/LEVEL_3-C1121F?style=for-the-badge" height="24"/> &nbsp;BOSS LEVEL &nbsp;<sub>★★★</sub>
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🏗️ CONSTRUCT-XR</h3>
-      <sub><code>VR</code> · <code>Meta Quest 3</code> · <code>XR Interaction Toolkit</code> · <code>Netcode for GameObjects</code> · <code>C#</code></sub>
-      <p>A multiplayer VR construction collaboration platform. Architects, engineers, site teams and clients meet inside a
-      shared 3D building to inspect components, measure, pin issues, chat, and propose changes through a full
-      review &amp; approval workflow — with role-based permissions and a live project dashboard.</p>
-      <img src="https://img.shields.io/badge/IN_DEVELOPMENT-C1121F?style=flat-square"/>
-    </td>
-  </tr>
-</table>
+| | Quest | Play |
+|:-:|:--|:--|
+| 🔐 | **Riddle Escape** — a VR escape room where you solve riddles, find hidden crystals and unlock the exit · `Unity XR` `C#` | [▶ repo](https://github.com/smritinukula16/see-vr) |
+| 🍜 | **AR Food Menu** — scan a printed menu and every dish pops up in 3D, with details and ordering · `Unity 6` `Vuforia` | [▶ repo](https://github.com/smritinukula16/food-menu-information-ar) |
+| 💻 | **Laptop Info AR** — scan a marker to see a laptop's specs and product details · `Unity` `Vuforia` | [▶ repo](https://github.com/smritinukula16/laptop-information) |
+| 🌐 | **Portfolio** — games, XR, web and client work in one place | [▶ visit](https://smriti-portfolio-iota.vercel.app/) |
 
 <br/>
 
 <!-- ═══════════════════════════  INVENTORY  ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/04-C1121F?style=flat-square" height="22"/> &nbsp;INVENTORY
+## <img src="https://img.shields.io/badge/03-C1121F?style=flat-square" height="22"/> &nbsp;INVENTORY
 
 **⚔️ Game & XR**
 <p>
@@ -158,19 +103,10 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 <br/>
 
 <!-- ═══════════════════════════  STATS SCREEN  ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/05-C1121F?style=flat-square" height="22"/> &nbsp;STATS SCREEN
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=smritinukula16&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C1121F&icon_color=C1121F&text_color=F5F5F5&ring_color=800020&rank_icon=github&custom_title=Player%20Stats" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smritinukula16&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C1121F&text_color=F5F5F5&langs_count=6&custom_title=Main%20Weapons" alt="Top languages"/>
-</p>
+## <img src="https://img.shields.io/badge/04-C1121F?style=flat-square" height="22"/> &nbsp;STATS SCREEN
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=smritinukula16&hide_border=true&background=0D0D0D&ring=C1121F&fire=C1121F&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=C1121F&sideLabels=BDBDBD&dates=8A8A8A&stroke=5C0A1E" alt="Streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=smritinukula16&bg_color=0D0D0D&color=F5F5F5&line=C1121F&point=F5F5F5&area=true&area_color=5C0A1E&hide_border=true&custom_title=XP%20Gained" alt="Activity graph"/>
 </p>
 
 <!-- Snake: generated daily by .github/workflows/snake.yml (run it once from the Actions tab) -->
