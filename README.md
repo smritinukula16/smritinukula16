@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://smriti-portfolio-iota.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-C1121F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.credly.com/badges/f81eb56a-0cc6-4dc2-9d47-c249dddc05c0"><img src="https://img.shields.io/badge/UNITY_CERTIFIED-0D0D0D?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Certified Associate"/></a>
   <a href="https://www.linkedin.com/in/smriti-n-04739a300"><img src="https://img.shields.io/badge/LINKEDIN-5C0A1E?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:smritinukula16@gmail.com"><img src="https://img.shields.io/badge/SAY_HI-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=smritinukula16&label=VISITORS&color=800020&style=for-the-badge" alt="Profile views"/>
@@ -28,6 +29,7 @@ guild:       Infini  —  websites, apps, brand kits & AI automation
 spawn_point: Bangalore, India
 studying:    BSc (Hons) Computer Science @ RV University
 main_quest:  make games that feel handmade, and XR that's actually useful
+certified:   Unity Certified Associate: Game Developer
 side_quests: illustration · writing · reading · game jams
 ```
 
