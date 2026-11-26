@@ -37,23 +37,53 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 
 <br/>
 
+<!-- ═══════════════════════════  FEATURED GAMES  ═══════════════════════════ -->
+## <img src="https://img.shields.io/badge/02-C1121F?style=flat-square" height="22"/> &nbsp;FEATURED GAMES
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/smritinukula16/mossvale"><img src="assets/mossvale.gif" width="100%" alt="Mossvale gameplay"/></a>
+      <h3>🌾 Mossvale</h3>
+      A cozy low-poly farming game. Till, plant, water and harvest, sell at the market and grow your farm level by level.
+      Every model is hand-built in Blender.<br/><br/>
+      <code>Unity 6</code> <code>URP</code> <code>C#</code> <code>Blender</code><br/><br/>
+      <a href="https://github.com/smritinukula16/mossvale/releases/latest"><b>⬇️ Download</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/smritinukula16/mossvale"><b>📂 Repo</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/smritinukula16/DuneDrift"><img src="assets/dunedrift.gif" width="100%" alt="Dune Drift gameplay"/></a>
+      <h3>🏜️ Dune Drift</h3>
+      An endless desert sandboarding game. Procedural dunes, momentum physics, backflip combos and a sunset-to-night cycle.
+      Original art and synthesised audio.<br/><br/>
+      <code>Unity 6</code> <code>2D URP</code> <code>C#</code> <code>Android</code><br/><br/>
+      <a href="https://github.com/smritinukula16/DuneDrift/releases/latest"><b>⬇️ Download APK</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/smritinukula16/DuneDrift"><b>📂 Repo</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <!-- ═══════════════════════════  QUEST LOG  ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/02-C1121F?style=flat-square" height="22"/> &nbsp;QUEST LOG
+## <img src="https://img.shields.io/badge/03-C1121F?style=flat-square" height="22"/> &nbsp;QUEST LOG
 
 **⚔️ Active quests**
 
 | | Quest | Status |
 |:-:|:--|:--|
-| 🌾 | **Mossvale** — a cozy low-poly farming game, Unity 6 URP, isometric, storybook vibes | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
-| 🏜️ | **Dune Drift** — a desert drifting game, redrawing the art in pixel style myself, headed to Steam (free) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
-| 🏗️ | **CONSTRUCT-XR** — multiplayer VR construction collaboration (Meta Quest · XRI · Netcode) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
-| ⌨️ | **Digital Typewriter** — an interactive vintage typewriter for the web | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
+| 🏗️ | **CONSTRUCT-XR** — multiplayer VR construction collaboration (Meta Quest · XRI · Netcode) · [models](https://github.com/smritinukula16/XR-Construct-Project) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
+| 🏜️ | **Dune Drift** — redrawing the art in pixel style myself, headed to Steam (free) | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
+| 🌾 | **Mossvale** — touch controls for an Android release | ![](https://img.shields.io/badge/IN_PROGRESS-C1121F?style=flat-square) |
 | 🎨 | Levelling up in **Blender** and **pixel art** | ![](https://img.shields.io/badge/GRINDING-5C0A1E?style=flat-square) |
 
 **🏆 Cleared quests**
 
 | | Quest | Play |
 |:-:|:--|:--|
+| 🌾 | **Mossvale v1.0** — cozy low-poly farming game · `Unity 6` `URP` `Blender` | [▶ release](https://github.com/smritinukula16/mossvale/releases/latest) |
+| 🏜️ | **Dune Drift v1.0** — endless desert sandboarding game · `Unity 6` `2D` `Android` | [▶ release](https://github.com/smritinukula16/DuneDrift/releases/latest) |
+| ⌨️ | **Digital Typewriter** — a vintage typewriter in the browser with a return lever, bell and shareable pages · `React` `Vite` | [▶ play](https://typewriter.aiwritersretreat.com/) |
 | 🔐 | **Riddle Escape** — a VR escape room where you solve riddles, find hidden crystals and unlock the exit · `Unity XR` `C#` | [▶ repo](https://github.com/smritinukula16/see-vr) |
 | 🍜 | **AR Food Menu** — scan a printed menu and every dish pops up in 3D, with details and ordering · `Unity 6` `Vuforia` | [▶ repo](https://github.com/smritinukula16/food-menu-information-ar) |
 | 💻 | **Laptop Info AR** — scan a marker to see a laptop's specs and product details · `Unity` `Vuforia` | [▶ repo](https://github.com/smritinukula16/laptop-information) |
@@ -62,7 +92,7 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 <br/>
 
 <!-- ═══════════════════════════  INVENTORY  ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/03-C1121F?style=flat-square" height="22"/> &nbsp;INVENTORY
+## <img src="https://img.shields.io/badge/04-C1121F?style=flat-square" height="22"/> &nbsp;INVENTORY
 
 **⚔️ Game & XR**
 <p>
@@ -102,7 +132,7 @@ When I'm not in Unity or Blender, I'm designing sites and wiring up marketing au
 <br/>
 
 <!-- ═══════════════════════════  STATS SCREEN  ═══════════════════════════ -->
-## <img src="https://img.shields.io/badge/04-C1121F?style=flat-square" height="22"/> &nbsp;STATS SCREEN
+## <img src="https://img.shields.io/badge/05-C1121F?style=flat-square" height="22"/> &nbsp;STATS SCREEN
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=smritinukula16&hide_border=true&background=0D0D0D&ring=C1121F&fire=C1121F&currStreakNum=F5F5F5&sideNums=F5F5F5&currStreakLabel=C1121F&sideLabels=BDBDBD&dates=8A8A8A&stroke=5C0A1E" alt="Streak"/>
